@@ -4,27 +4,29 @@ Fufu Republic is a popular restaurant chain in Nigeria with multiple outlets nat
 
 `Payment Methods:`
 The restaurant accepts:
+
 ● Cash
+
 ● Debit card payments via Nomba POS terminals at outlets
+
 ● Online payments processed through gateways like Nomba Web Checkout, Paystack, Interswitch etc.
 
 `Challenges:`
+
 1. Inventory Management:
 Variations in customer demand and menu items across branches make it challenging to maintain optimal stock levels.
-2. Customer Experience:
+
+3. Customer Experience:
 The restaurant aims to improve the customer experience by offering personalized promotions based on purchasing behavior.
 
 `Objective:`
 Fufu Republic wants to leverage data to:
+
 ● Understand sales trends across locations, payment methods, and dining options (dine-in, take-out, online).
+
 ● Manage stock levels efficiently, reducing waste and ensuring availability.
+
 ● Enhance customer experience by analyzing purchasing habits and tailoring promotions accordingly.
 
 __DATABASE MODEL DESIGN__
 ![FUFU_Republic_Database_Model](https://github.com/user-attachments/assets/dfe816f9-9e51-4c95-a06d-1c1f42c91d11)
-
-
-2. Create a dimensional model:
-○ Identify a business process of your choice
-○ List the business question under the business process you selected
-○ Identify the grain, dimensions and fact.
